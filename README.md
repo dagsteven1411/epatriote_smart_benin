@@ -7,16 +7,16 @@ It's very easy to contribute to this project
 
     - Fork it then run after going to a proper folder
     ---
-      git clone  https://github.com/<YOUR_GITHUB>/FaqFc.git
+      git clone  https://github.com/<YOUR_GITHUB>/epatriote_smart_benin.git
 
     ---
 2. Create an upstream remote and sync your local copy before you branch.
     ---
-        cd FaqFC
+        cd epatriote_smart_benin
         git remote add upstream https://github.com/ePatrioteCreative/epatriote_smart_benin.git
 
-        //Install dependencies and run migrations
-
+        //Install dependencies 
+        
         flutter pub get
 
     ---
@@ -47,3 +47,5 @@ It's very easy to contribute to this project
  __Note: If you don't follow the guidlines in this docs, your PR will not be accepted !__
 
 8. Thank for participating :heart:
+
+Thank to be *eP*
